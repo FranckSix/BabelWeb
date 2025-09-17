@@ -1,7 +1,7 @@
 ## 🌐 Idiomas disponibles
-- [Inglés](README.md)
-- [Francés](docs/README-fr.md)
-- [Español](docs/README-es.md)
+- [Inglés](../README.md)
+- [Francés](README-fr.md)
+- [Español](README-es.md)
 
 # BabelWeb
 **Un navegador políglota para una web liberada.** ¿Por qué debería ser JavaScript el único lenguaje permitido en el navegador? BabelWeb ofrece una arquitectura multi-runtime donde Python, C#, Rust y muchos otros pueden coexistir, interactuar con el DOM y ofrecer verdadera libertad a los desarrolladores.
