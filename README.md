@@ -1,4 +1,6 @@
-![Logo BabelWeb](logo.png "The polyglotte browser")
+<p align="center">
+  <img src="logo.svg" alt="Logo BabelWeb" width="500" />
+</p>
 
 ## 🌐 Available Languages
 - [French](docs/README-fr.md)
