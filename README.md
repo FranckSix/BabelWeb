@@ -31,9 +31,9 @@ Fork, propose ideas, open issues.
 
 Even a comment can move the revolution forward.
 
-## What it could look like:
+## What it could look like: :smiling_face_with_three_hearts:
 ```html
 <html>
-<meta runtime="python" /> <!-- and the dream begins -->
+<meta runtime="python" /> <!-- and the dream begins  -->
 </html>
 ```
