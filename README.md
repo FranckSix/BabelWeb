@@ -1,5 +1,4 @@
 ## 🌐 Available Languages
-- [English](README.md)
 - [French](docs/README-fr.md)
 - [Spanish](docs/README-es.md)
 
