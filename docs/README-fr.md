@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../logo.svg" alt="Logo BabelWeb" width="500" />
+</p>
+
 ## 🌐 Langues disponibles
 - [Anglais](../README.md)
 - [Español](README-es.md)
