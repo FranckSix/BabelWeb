@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Logo BabelWeb" width="500" />
+  <img src="..//banner.svg" alt="Logo BabelWeb" width="500" />
   <p align="center">
     <strong style="font-size: 54px">
       Pour un navigateur polyglotte et liberer le Web.
