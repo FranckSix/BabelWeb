@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="../logo.svg" alt="Logo BabelWeb" width="500" />
+  <img src="../banner.svg" alt="Logo BabelWeb" width="500" />
+  <p align="center">
+    <strong style="font-size: 54px">
+      Para navegador políglota para una web liberada.
+    </strong>
+  </p>
 </p>
 
 ## 🌐 Idiomas disponibles
@@ -7,7 +12,7 @@
 - [Francés](README-fr.md)
 
 # BabelWeb
-**Un navegador políglota para una web liberada.** ¿Por qué debería ser JavaScript el único lenguaje permitido en el navegador? BabelWeb ofrece una arquitectura multi-runtime donde Python, C#, Rust y muchos otros pueden coexistir, interactuar con el DOM y ofrecer verdadera libertad a los desarrolladores.
+**** ¿Por qué debería ser JavaScript el único lenguaje permitido en el navegador? BabelWeb ofrece una arquitectura multi-runtime donde Python, C#, Rust y muchos otros pueden coexistir, interactuar con el DOM y ofrecer verdadera libertad a los desarrolladores.
 
 ## Objetivos
 
