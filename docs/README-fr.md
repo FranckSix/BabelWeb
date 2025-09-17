@@ -1,6 +1,5 @@
 ## 🌐 Langues disponibles
 - [Anglais](../README.md)
-- [Français](README-fr.md)
 - [Español](README-es.md)
 
 # BabelWeb
