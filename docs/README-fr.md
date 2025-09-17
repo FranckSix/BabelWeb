@@ -27,7 +27,7 @@ MIT — libre, ouverte, sans contraintes.
 Forkez, proposez des idées, ouvrez des issues.  
 Même un commentaire peut faire avancer la révolution.
 
-## A quoi ça pourrait ressembler :
+## A quoi ça pourrait ressembler : :smiling_face_with_three_hearts:
 ```html
 <html>
   <meta runtime="python" /> <!-- et le rêve commence -->
