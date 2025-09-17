@@ -29,7 +29,7 @@ Bifurca, propone ideas, abre problemas.
 
 Incluso un comentario puede impulsar la revolución.
 
-## Cómo podría ser:
+## Cómo podría ser: :smiling_face_with_three_hearts:
 ```html
 <html>
 <meta runtime="python" /> <!-- y el sueño comienza -->
