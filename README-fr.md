@@ -1,5 +1,5 @@
 ## 🌐 Langues disponibles
-
+- [Anglais](README.md)
 - [Français](README-fr.md)
 - [Español](README-es.md)
 - [日本語](README-ja.md)
