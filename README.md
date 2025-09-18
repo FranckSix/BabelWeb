@@ -12,7 +12,7 @@
 - [Spanish](docs/README-es.md)
 
 # BabelWeb
-**.** Why should JavaScript be the only language allowed in the browser? BabelWeb offers a multi-runtime architecture where Python, C#, Rust, and many others can coexist, interact with the DOM, and offer true freedom to developers.
+Why should JavaScript be the only language allowed in the browser? BabelWeb offers a multi-runtime architecture where Python, C#, Rust, and many others can coexist, interact with the DOM, and offer true freedom to developers.
 
 ## Goals
 
